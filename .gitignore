@@ -1,0 +1,7 @@
+__pycache__/
+.drivestate
+.driveignore
+.driveconfig
+credentials.json
+token.pickle
+*.txt
